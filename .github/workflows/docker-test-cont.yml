@@ -16,7 +16,7 @@ jobs:
 
       # https://github.com/orgs/community/discussions/25220
       - name: Search the PR that triggered this workflow
-        uses: potiuk/get-workflow-origin@v1_5
+        uses: potiuk/get-workflow-origin@v1
         id: source-run-info
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
