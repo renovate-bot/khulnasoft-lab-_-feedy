@@ -1,0 +1,42 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.joinus": {
+    "message": "Join Us",
+    "description": "The label for category joinus in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.New FEEDy Rules": {
+    "message": "New FEEDy Rules",
+    "description": "The label for category New FEEDy Rules in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Advanced": {
+    "message": "Advanced",
+    "description": "The label for category Advanced in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.routes": {
+    "message": "Routes",
+    "description": "The label for category routes in sidebar tutorialSidebar"
+  },
+  "sidebar.guideSidebar.category.Guide": {
+    "message": "Guide",
+    "description": "The label for category Guide in sidebar guideSidebar"
+  },
+  "sidebar.guideSidebar.category.Routes": {
+    "message": "Routes",
+    "description": "The label for category Routes in sidebar guideSidebar"
+  },
+  "sidebar.guideSidebar.category.Routes.link.generated-index.description": {
+    "message": "Routes are the access paths of FEEDy. Each route contains a FEEDy rule, which tells FEEDy how to extract content from the website and generate RSS subscription.",
+    "description": "The generated-index page description for category Routes in sidebar guideSidebar"
+  },
+  "sidebar.joinusSidebar.category.New FEEDy Rules": {
+    "message": "New FEEDy Rules",
+    "description": "The label for category New FEEDy Rules in sidebar joinusSidebar"
+  },
+  "sidebar.joinusSidebar.category.Advanced": {
+    "message": "Advanced",
+    "description": "The label for category Advanced in sidebar joinusSidebar"
+  }
+}

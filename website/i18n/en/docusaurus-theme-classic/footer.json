@@ -1,0 +1,58 @@
+{
+  "link.title.Docs": {
+    "message": "Docs",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Community": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.More": {
+    "message": "More",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.Guide": {
+    "message": "Guide",
+    "description": "The label of footer link with label=Guide linking to /"
+  },
+  "link.item.label.Join Us": {
+    "message": "Join Us",
+    "description": "The label of footer link with label=Join Us linking to /joinus/quick-start"
+  },
+  "link.item.label.Deploy": {
+    "message": "Deploy",
+    "description": "The label of footer link with label=Deploy linking to /install"
+  },
+  "link.item.label.Support FEEDy": {
+    "message": "Support FEEDy",
+    "description": "The label of footer link with label=Support FEEDy linking to /support"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/khulnasoft-lab/feedy"
+  },
+  "link.item.label.Telegram Group": {
+    "message": "Telegram Group",
+    "description": "The label of footer link with label=Telegram Group linking to https://t.me/rsshub"
+  },
+  "link.item.label.Telegram Channel": {
+    "message": "Telegram Channel",
+    "description": "The label of footer link with label=Telegram Channel linking to https://t.me/awesomeFEEDy"
+  },
+  "link.item.label.About khulnasoft-lab": {
+    "message": "About khulnasoft-lab",
+    "description": "The label of footer link with label=About khulnasoft-lab linking to https://khulnasoft-lab.cc"
+  },
+  "link.item.label.FEEDy Radar - Discover and subscribe to RSS quickly": {
+    "message": "FEEDy Radar - Discover and subscribe to RSS quickly",
+    "description": "The label of footer link with label=FEEDy Radar - Discover and subscribe to RSS quickly linking to https://github.com/khulnasoft-lab/feedy-Radar"
+  },
+  "link.item.label.xLog - Open source creation community written on the blockchain": {
+    "message": "xLog - Open source creation community written on the blockchain",
+    "description": "The label of footer link with label=xLog - Open source creation community written on the blockchain linking to https://xlog.app"
+  },
+  "copyright": {
+    "message": "Copyright © 2023 FEEDy.",
+    "description": "The footer copyright"
+  }
+}
