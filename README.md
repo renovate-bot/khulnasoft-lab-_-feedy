@@ -1,8 +1,6 @@
 <p align="center">
 </p>
-<h1 align="center">FEEDy</h1>
-
-> 🍰 Everything is RSSible
+<h1 align="center">FEEDy - 🍰 Everything is RSSible</h1>
 
 [![](https://img.shields.io/badge/dynamic/json?url=https://rsshub-analytics.khulnasoft-lab.workers.dev/&query=requests&color=F38020&label=requests&logo=cloudflare&style=flat-square&suffix=/month)](https://rsshub.app)
 [![docker publish](https://img.shields.io/docker/pulls/khulnasoft-lab/feedy?label=docker%20pulls&logo=docker&style=flat-square)](https://hub.docker.com/r/khulnasoft-lab/feedy)
